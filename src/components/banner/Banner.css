@@ -1,0 +1,30 @@
+.banner-image{
+   margin-top: -30px;
+  background-image:url("../../assets/banner.jpeg") ;
+  height: 80vh;
+  width: 100%;
+}
+.banner-text{
+
+ justify-content: center;
+ align-items: center;
+ text-align: center;
+
+ display: flex;
+
+}
+
+.banner-links{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+}
+
+.bannerLink-button{
+    border: none;
+    border-radius: 5px;
+    background-color:rgb(211, 135, 147);
+    padding: 8px;
+    color: #fff;
+}
